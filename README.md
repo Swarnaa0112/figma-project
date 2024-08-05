@@ -5,8 +5,8 @@ Currently, I’m advancing my skills in these emerging fields.
 I’m eager to collaborate on open-source projects that create a positive societal impact.
 Connect with-https://www.linkedin.com/in/swarnaa-sree-702133229/
 
-### Figma Projects
 ----------------------------------------------------
+### Figma Projects
 This repository showcases a collection of UI/UX design projects created using Figma. Each project demonstrates a variety of design principles and techniques, reflecting a commitment to creating intuitive and visually appealing user interfaces.
 
 
