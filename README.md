@@ -1,4 +1,4 @@
-👋 Hi, I’m Swarnaa Sree 👋
+👋 Hi,I’m Swarnaa Sree 👋
 
 I’m enthusiastic about delving into the future and exploring cutting-edge technologies.
 Currently, I’m advancing my skills in these emerging fields.
@@ -8,7 +8,9 @@ Connect with-https://www.linkedin.com/in/swarnaa-sree-702133229/
 ### Figma Projects
 ----------------------------------------------------
 This repository showcases a collection of UI/UX design projects created using Figma. Each project demonstrates a variety of design principles and techniques, reflecting a commitment to creating intuitive and visually appealing user interfaces.
--------------------------------------------------
+
+
+-------
 **Projects Included:**
 
 1. **E-Commerce Website Redesign:**
